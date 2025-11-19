@@ -68,7 +68,7 @@ npm start
 
 # Setup .env File
 ```
-PORT=5000
+PORT=4000
 MONGO_URI=your_mongo_uri
 
 UPSTASH_REDIS_URL=your_redis_url
