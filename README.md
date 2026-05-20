@@ -1,4 +1,4 @@
-# E-commerce Web Application
+# ShopSphere — Full Stack E-Commerce Platform
 
 A fully functional E-commerce platform that allows users to browse products, manage a shopping cart, and place orders. This project demonstrates a modern full-stack application architecture with a focus on responsive design and user experience.
 
